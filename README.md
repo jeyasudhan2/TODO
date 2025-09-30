@@ -1,7 +1,7 @@
-<h1 align="center">Hey 👋, I'm JeyaSudhan</h1>
+<h1 align="center">Hey , I'm JEYA SUDHAN </h1>
 
 <p align="center">
-  💻 Web Developer | 🌐 Networking Enthusiast | 🎨 UI/UX Designer
+   Web Developer |  Networking Enthusiast |  UI/UX Designer
 </p>
 
 <p align="center">
