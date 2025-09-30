@@ -95,5 +95,14 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=jeyasudhan2&icon=4&color=5)](https://visitcount.itsvg.in)
+<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail--v1"/>
+<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/laptop.png" alt="laptop"/>
+<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/adobe-photoshop.png" alt="adobe-photoshop"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
